@@ -1,8 +1,9 @@
 {
     "version": "1",
+    "text":"亓好可爱",
     "data": [
         {
-            "num": "123"
+            "num": "test"
         },
         {
             "num": "456"
